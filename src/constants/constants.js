@@ -4,7 +4,7 @@ export const FPS = 60;
 export const BROAD_CELL_SIZE = 250;
 export const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
 
-export const KEY_FORWARD = 'KeyW';
+export const KEY_FORWARD = 'KeyUp';
 export const KEY_BACKWARD = 'KeyDown';
 export const KEY_LEFT = 'KeyLeft';
 export const KEY_RIGHT = 'KeyRight';

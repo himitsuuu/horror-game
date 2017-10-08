@@ -1,4 +1,4 @@
-    §   §   §   import {
+import {
     DOOR_SET_CLOSING,
     DOOR_SET_CLOSE,
     DOOR_SET_OPENING,

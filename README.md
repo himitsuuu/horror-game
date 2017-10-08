@@ -25,10 +25,10 @@ at the moment of writing this)_
 
 ## Controls
 ### Keyboard
-`W` — move forward  
-`S` — move backward  
-`A` — move left  
-`D` — move right  
+`Key Up` — move forward  
+`Key Down` — move backward  
+`Key Left` — move left  
+`KeyRight` — move right  
 `Mouse/Touchpad` — look around  
 `SHIFT` — run  
 `E` — interact with stuff  
