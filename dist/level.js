@@ -85,16 +85,16 @@ const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
 /* unused harmony export SPOTLIGHT_RADIUS */
 
 
-const KEY_FORWARD = 'KeyUp';
+const KEY_FORWARD = 'W';
 /* unused harmony export KEY_FORWARD */
 
-const KEY_BACKWARD = 'KeyDown';
+const KEY_BACKWARD = 'Z';
 /* unused harmony export KEY_BACKWARD */
 
-const KEY_LEFT = 'KeyLeft';
+const KEY_LEFT = 'A';
 /* unused harmony export KEY_LEFT */
 
-const KEY_RIGHT = 'KeyRight';
+const KEY_RIGHT = 'S';
 /* unused harmony export KEY_RIGHT */
 
 const KEY_INTERACT = 'KeyI';
@@ -111,7 +111,7 @@ const KEY_BACK = 'Escape';
 
 const KEY_ENTER = 'Enter';
 /* unused harmony export KEY_ENTER */
-
+s;
 
 const XBOX_BUTTON_A = 0;
 /* unused harmony export XBOX_BUTTON_A */

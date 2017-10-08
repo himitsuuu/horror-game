@@ -4,15 +4,15 @@ export const FPS = 60;
 export const BROAD_CELL_SIZE = 250;
 export const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
 
-export const KEY_FORWARD = 'KeyUp';
-export const KEY_BACKWARD = 'KeyDown';
-export const KEY_LEFT = 'KeyLeft';
-export const KEY_RIGHT = 'KeyRight';
+export const KEY_FORWARD = 'W';
+export const KEY_BACKWARD = 'Z';
+export const KEY_LEFT = 'A';
+export const KEY_RIGHT = 'S';
 export const KEY_INTERACT = 'KeyI';
 export const KEY_QUIT_GAME = 'KeyQ';
 export const KEY_RUN = 'ShiftLeft';
 export const KEY_BACK = 'Escape';
-export const KEY_ENTER = 'Enter';
+export const KEY_ENTER = 'Enter';s
 
 export const XBOX_BUTTON_A = 0;
 export const XBOX_BUTTON_X = 2;

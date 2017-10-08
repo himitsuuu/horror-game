@@ -130,16 +130,16 @@ const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
 /* harmony export (immutable) */ __webpack_exports__["Q"] = SPOTLIGHT_RADIUS;
 
 
-const KEY_FORWARD = 'KeyUp';
+const KEY_FORWARD = 'W';
 /* harmony export (immutable) */ __webpack_exports__["j"] = KEY_FORWARD;
 
-const KEY_BACKWARD = 'KeyDown';
+const KEY_BACKWARD = 'Z';
 /* harmony export (immutable) */ __webpack_exports__["k"] = KEY_BACKWARD;
 
-const KEY_LEFT = 'KeyLeft';
+const KEY_LEFT = 'A';
 /* harmony export (immutable) */ __webpack_exports__["l"] = KEY_LEFT;
 
-const KEY_RIGHT = 'KeyRight';
+const KEY_RIGHT = 'S';
 /* harmony export (immutable) */ __webpack_exports__["m"] = KEY_RIGHT;
 
 const KEY_INTERACT = 'KeyI';
@@ -156,7 +156,7 @@ const KEY_BACK = 'Escape';
 
 const KEY_ENTER = 'Enter';
 /* harmony export (immutable) */ __webpack_exports__["q"] = KEY_ENTER;
-
+s;
 
 const XBOX_BUTTON_A = 0;
 /* harmony export (immutable) */ __webpack_exports__["a"] = XBOX_BUTTON_A;
