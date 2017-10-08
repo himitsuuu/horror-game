@@ -26,12 +26,12 @@ at the moment of writing this)_
 ## Controls
 ### Keyboard
 `W` — move forward  
-`Z` — move backward  
+`S` — move backward  
 `A` — move left  
-`S` — move right  
+`D` — move right  
 `Mouse/Touchpad` — look around  
 `SHIFT` — run  
-`I` — interact with stuff  
+`E` — interact with stuff  
 `Q` — quit to main menu  
 
 ### Gamepad (Xbox 360/One, wired)
