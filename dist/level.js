@@ -85,16 +85,16 @@ const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
 /* unused harmony export SPOTLIGHT_RADIUS */
 
 
-const KEY_FORWARD = 'W';
+const KEY_FORWARD = 'KeyW';
 /* unused harmony export KEY_FORWARD */
 
-const KEY_BACKWARD = 'Z';
+const KEY_BACKWARD = 'KeyZ';
 /* unused harmony export KEY_BACKWARD */
 
-const KEY_LEFT = 'A';
+const KEY_LEFT = 'KeyA';
 /* unused harmony export KEY_LEFT */
 
-const KEY_RIGHT = 'S';
+const KEY_RIGHT = 'KeyS';
 /* unused harmony export KEY_RIGHT */
 
 const KEY_INTERACT = 'KeyI';

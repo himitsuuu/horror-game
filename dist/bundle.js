@@ -130,16 +130,16 @@ const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
 /* harmony export (immutable) */ __webpack_exports__["Q"] = SPOTLIGHT_RADIUS;
 
 
-const KEY_FORWARD = 'W';
+const KEY_FORWARD = 'KeyW';
 /* harmony export (immutable) */ __webpack_exports__["j"] = KEY_FORWARD;
 
-const KEY_BACKWARD = 'Z';
+const KEY_BACKWARD = 'KeyZ';
 /* harmony export (immutable) */ __webpack_exports__["k"] = KEY_BACKWARD;
 
-const KEY_LEFT = 'A';
+const KEY_LEFT = 'KeyA';
 /* harmony export (immutable) */ __webpack_exports__["l"] = KEY_LEFT;
 
-const KEY_RIGHT = 'S';
+const KEY_RIGHT = 'KeyS';
 /* harmony export (immutable) */ __webpack_exports__["m"] = KEY_RIGHT;
 
 const KEY_INTERACT = 'KeyI';

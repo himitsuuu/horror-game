@@ -4,10 +4,10 @@ export const FPS = 60;
 export const BROAD_CELL_SIZE = 250;
 export const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
 
-export const KEY_FORWARD = 'W';
-export const KEY_BACKWARD = 'Z';
-export const KEY_LEFT = 'A';
-export const KEY_RIGHT = 'S';
+export const KEY_FORWARD = 'KeyW';
+export const KEY_BACKWARD = 'KeyZ';
+export const KEY_LEFT = 'KeyA';
+export const KEY_RIGHT = 'KeyS';
 export const KEY_INTERACT = 'KeyI';
 export const KEY_QUIT_GAME = 'KeyQ';
 export const KEY_RUN = 'ShiftLeft';
