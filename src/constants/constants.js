@@ -5,10 +5,10 @@ export const BROAD_CELL_SIZE = 250;
 export const SPOTLIGHT_RADIUS = 1.5 * BROAD_CELL_SIZE;
 
 export const KEY_FORWARD = 'KeyW';
-export const KEY_BACKWARD = 'KeyS';
-export const KEY_LEFT = 'KeyA';
-export const KEY_RIGHT = 'KeyD';
-export const KEY_INTERACT = 'KeyE';
+export const KEY_BACKWARD = 'KeyDown';
+export const KEY_LEFT = 'KeyLeft';
+export const KEY_RIGHT = 'KeyRight';
+export const KEY_INTERACT = 'KeyI';
 export const KEY_QUIT_GAME = 'KeyQ';
 export const KEY_RUN = 'ShiftLeft';
 export const KEY_BACK = 'Escape';
