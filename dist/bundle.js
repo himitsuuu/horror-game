@@ -3745,7 +3745,7 @@ function Logo() {
     return __WEBPACK_IMPORTED_MODULE_1_react___default.a.createElement(
         'h1',
         { className: __WEBPACK_IMPORTED_MODULE_0__logo_css___default.a.root },
-        'The monster\'s vault'
+        'No Forwarding Address'
     );
 }
 

@@ -1,4 +1,4 @@
-# The monster's vault game
+# No Forwarding Address
 
 ## Story
 You find yourself locked in some sort of a
